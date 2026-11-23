@@ -1,0 +1,8 @@
+{
+  "name": "cubee-io-server",
+  "version": "1.0.0",
+  "description": "CUBEE.IO — игра и сервер (Амстердам, до 10 игроков)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" }
+}
